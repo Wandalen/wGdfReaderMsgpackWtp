@@ -63,8 +63,8 @@ path:
       raw: compiled
       content: prime
   npm.proto.entry:
-    - /pro/module/wGdfReaderMsgpackWtp/proto/wtools/Tools.s
-    - /pro/module/wGdfReaderMsgpackWtp/proto/node_modules/wgdfreadermsgpackwtp
+    - proto/wtools/Tools.s
+    - proto/node_modules/wgdfreadermsgpackwtp
 reflector:
   reflect.proto:
     inherit: predefined.*
